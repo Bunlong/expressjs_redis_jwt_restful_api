@@ -1,0 +1,21 @@
+install dependencies:
+  $ cd foodie_menu && npm install
+
+run the app:
+  $ DEBUG=foodie-menu:* npm start
+
+========================================
+
+https://dev.mysql.com/doc/dev/connector-nodejs/
+
+========================================
+
+sudo service redis-server start
+
+========================================
+
+http://thejackalofjavascript.com/architecting-a-restful-node-js-app/
+
+========================================
+
+https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52
