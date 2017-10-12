@@ -19,3 +19,7 @@ http://thejackalofjavascript.com/architecting-a-restful-node-js-app/
 ========================================
 
 https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52
+
+========================================
+
+https://www.valentinog.com/blog/socket-io-node-js-react/
